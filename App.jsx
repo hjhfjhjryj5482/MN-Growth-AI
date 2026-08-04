@@ -27,7 +27,7 @@ function waLink(phone, message) {
 }
 
 const REGISTRATION_KEY = "MN301546";
-const AUTHOR_MASTER_PASSWORD = "MNFT-Owner-2026"; // change this to your own secret — only whoever knows it gets full control
+const AUTHOR_MASTER_PASSWORD = "MN301";// change this to your own secret — only whoever knows it gets full control
 const ROLES = [
   { key: "owner", label: "Business Owner", desc: "Manage your business, branches & campaigns", icon: "Store" },
   { key: "admin", label: "Author", desc: "Full platform control — password only, no public sign-up", icon: "Crown" },
